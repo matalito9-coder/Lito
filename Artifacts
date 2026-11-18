@@ -3,14 +3,14 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Maya Reyes — Aspiring Web Developer</title>
+  <title>Lito Mata — Aspiring Web Developer</title>
   <meta name="description" content="Portfolio website ni Maya Reyes: isang simpleng sample website na puwede mong i-host nang libre." />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <header class="hero">
     <p class="badge">Libreng sample website</p>
-    <h1>Kamusta, ako si Maya!</h1>
+    <h1>Kamusta, ako si Lito!</h1>
     <p class="tagline">Aspiring web developer mula sa Davao. Ito ang una kong website — naka-host nang <strong>libre</strong>.</p>
     <div class="buttons">
       <a class="btn primary" href="#projects">Tingnan ang projects</a>
